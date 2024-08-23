@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.bgimg{
+    background-image: url("https://www.servis.pk/cdn/shop/files/ndure-banner-dimensions.png?v=1721826383");
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+
+.icon1{
+    display: flex;
+    padding: 20px;
+    font-size: xx-large;
+}
+
+.logoimg{
+    height: 120px;
+    width: 300px;
+    display: flex;
+    padding: 20px;
+}
+
+.sections{
+    text-decoration: none;
+    margin-left: 60px;
+    color: black;
+    font-family: sans-serif;
+}
+
+a{
+    color: black;
+    padding-left: 20px;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.search{
+    display: flex;
+    align-items: end;
+    margin-left: 750px;
+    font-size: medium;
+    font-weight: bolder;
+    font-family: sans-serif;
+    margin-top: 0%;
+    padding-bottom: 20px;
+}
+
+.icon2{
+    padding-bottom: 20px;
+    margin-left: 10px;
+    font-size: large;
+}
+
+.nav{
+    position: fixed;
+}
+
+h5{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 70px;
+    font-weight: lighter;
+    word-spacing: 3px;
+    font-style: oblique;
+}
+
+h2{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: lighter;
+    word-spacing: 2px;
+    padding-right: 150px;
+}
+
+p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h6{
+    font-size: small;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin: 20px;
+    padding: 10px;
+    padding-right: 60px;
+    display: flex;
+}
+
+ul li{
+    list-style: none;
+    display: flex;
+}
+
+.allicons{
+    display: flex;
+    font-size: large;
+    padding: 15px;
+    gap: 25px;
+}
+
+ul li a{
+    font-family: sans-serif;
+    font-size: smaller;
+    padding: 10px;
+    font-size: x-small;
+    font-weight: normal;
+    margin-left: 10px;
+}
+
+.copyright{
+    display: flex;
+    font-family: sans-serif;
+    font-size: x-small;
+    justify-content: center;
+    margin: 40px;
+    word-spacing: 5px;
+}
